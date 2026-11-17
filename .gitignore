@@ -1,0 +1,16 @@
+# Virtual environment (each person creates their own)
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Test cache
+.pytest_cache/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
